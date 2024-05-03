@@ -12,12 +12,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
+- I'm looking for my first job in Web Development.
+- I’m currently learning __Javascript__, __Python__, & __PhP__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- Fun-Fact: I was a seller in my last job.
+- How to reach me: __dancolm95@gmail.com__
 
 ---
 

@@ -27,7 +27,7 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 600px; width: 100%;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 600px; width: 60%;" />
 </p>
 
 

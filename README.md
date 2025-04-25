@@ -1,5 +1,6 @@
 <!-- Your title -->
-## Hello, I'm Daniel Colona!
+<h1 align="center">Hi 👋, I'm Daniel Colona</h1>
+<h3 align="center">A passionate frontend developer from Perú</h3>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -12,11 +13,10 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I'm looking for my first job in Web Development.
-- I’m currently learning __Javascript__, __Python__, & __PhP__.
-- I’m looking to collaborate on anything!
+- 🔭 I’m currently working on **microservice project with Nest.js**
+- 🌱 I’m currently learning **Nest.js**
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a seller in my last job.
+- ⚡ Fun-Fact: I was a seller in my last job.
 - How to reach me: __dancolm95@gmail.com__
 
 ---

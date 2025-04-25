@@ -42,9 +42,11 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<a href="https://github.com/dancolm95/github-readme-stats">
-   <img width="60%" alt="Daniel's github stats" src="https://github-readme-stats.vercel.app/api?dancolm95=zjayers&show_icons=true&hide_border=true" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dancolm95&show_icons=true&locale=en&layout=compact" alt="dancolm95" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dancolm95&show_icons=true&locale=en" alt="dancolm95" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dancolm95&" alt="dancolm95" /></p>
 
 -----
 
